@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/Employee/Employee.iml" filepath="$PROJECT_DIR$/springboot-kafka/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" filepath="$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-kafka-master.iml" filepath="$PROJECT_DIR$/.idea/springboot-kafka-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/consumer/springboot-kafka.consumer.iml" filepath="$PROJECT_DIR$/springboot-kafka/consumer/springboot-kafka.consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/model/springboot-kafka.model.iml" filepath="$PROJECT_DIR$/springboot-kafka/model/springboot-kafka.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/producer/springboot-kafka.producer.iml" filepath="$PROJECT_DIR$/springboot-kafka/producer/springboot-kafka.producer.iml" />
+    </modules>
+  </component>
+</project>
